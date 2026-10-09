@@ -1,0 +1,20 @@
+{
+  "name": "James Valerio | The Hidden Secret of the Young Village Girls",
+  "short_name": "James Valerio",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0F5C6B",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
